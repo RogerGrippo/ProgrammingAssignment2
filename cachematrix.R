@@ -1,7 +1,7 @@
 ## given an invertible matrix the following two functions will calculate the inverse matrix or get the inverse matrix from cache
 
 
-## creates a matrix object that can cache its inverse
+##creates a matrix object that can cache its inverse
 
 makeCacheMatrix <- function(x = matrix()) {
     mx <- NULL
